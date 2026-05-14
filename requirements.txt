@@ -1,0 +1,4 @@
+flask==3.0.0
+httpx==0.26.0
+google-cloud-aiplatform==1.73.0
+gunicorn==21.2.0
